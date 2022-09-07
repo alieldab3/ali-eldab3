@@ -1,0 +1,24 @@
+.custom-quote {
+    top: -120px;
+    font-size: 70px;
+}
+
+.circular--landscape {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.circular--landscape img {
+    width: auto;
+    height: auto;
+}
+
+.brd{
+    background-color: #17141D
+}
+
+.brd:hover {
+    background-color: #1E2029;
+}
